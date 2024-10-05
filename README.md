@@ -9,8 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joamaro97/azure-network-protocols)
   - [How to install and configure an Active Directory within Azure VMs](https://github.com/joamaro97/configure-ad)
-  - [Understanding DNS in Azure] (https://github.com/joamaro97/DNS-config)
-  - [Understanding Files Permissions in Azure] (https://github.com/joamaro97/file-permissions)
+  - [Understanding DNS in Azure](https://github.com/joamaro97/DNS-config)
+  - [Understanding Files Permissions in Azure](https://github.com/joamaro97/file-permissions)
 
 <h2>🤳Connect with me:</h2>
 
